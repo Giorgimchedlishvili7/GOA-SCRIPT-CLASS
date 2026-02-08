@@ -1,0 +1,23 @@
+
+#box1 {
+    background: #6fa0e8;
+    border: 5px solid green;
+    color: blue;
+}
+
+
+
+#box2 {
+    background: #933;
+    border: 5px solid black;
+    color: red;
+    align-self: center;
+}
+
+
+#box3 {
+    background: green;
+    border: 5px solid blue;
+    color: #ff00ff;
+}
+

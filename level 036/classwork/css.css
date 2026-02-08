@@ -1,0 +1,12 @@
+#div1 {
+    background-color: lightblue;
+    text-align: center;
+    color: black;
+    border: solid 2px rgb(77, 77, 77);
+}
+
+.div2 {
+    background-color: lightgreen;
+    text-align: center;
+    border: dashed;
+}
