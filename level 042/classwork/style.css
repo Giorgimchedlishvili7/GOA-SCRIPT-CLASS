@@ -1,0 +1,20 @@
+.id1 {
+    text-decoration: overline dashed blue;
+}
+
+.G{
+    color: blue;
+    text-shadow: 5px 3px 4px skyblue;
+}
+
+.hi{
+    text-transform: capitalize;
+}
+
+.bye{
+    text-transform: lowercase;
+}
+
+.welcome{
+    text-transform: uppercase;
+}
