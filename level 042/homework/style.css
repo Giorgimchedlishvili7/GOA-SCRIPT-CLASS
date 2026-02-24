@@ -1,0 +1,18 @@
+.p {
+    text-transform: lowercase;
+}
+
+.p1
+{
+    text-transform: uppercase;
+}
+
+.p2 {
+    text-transform: capitalize;
+}
+
+.G{
+    color: blue;
+    text-shadow: 5px 3px 4px skyblue;
+}
+
