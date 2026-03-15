@@ -1,0 +1,19 @@
+
+
+.car {
+  
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+
+a:link {
+  color: white;
+  background-color: #0066cc;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:visited {
+  background-color: blue; 
+}
