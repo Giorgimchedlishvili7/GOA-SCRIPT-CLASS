@@ -1,0 +1,9 @@
+table, td ,th {
+    border: 3px blue solid;
+    border-collapse: collapse;
+    
+}
+
+tr:nth-child(even):hover{
+    background-color: gray;
+}
