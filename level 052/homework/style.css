@@ -1,0 +1,23 @@
+table {
+  width: 80px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+/* Style the Header */
+th {
+  background-color: #3fa857; /* Green color */
+  color: black;
+  border: 1px solid gray;
+}
+
+/* Style the Cells */
+td {
+  border: 1px solid gray;
+}
+
+
+tr:nth-child(even) {
+  background-color: #cfcfcf; 
+}
+
