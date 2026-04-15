@@ -1,0 +1,22 @@
+ol {
+    border: 2px dotted red;
+    width: 300px;
+    background-color: #f9f9f9; 
+}
+
+.georgian {
+    list-style-type: georgian;
+    color: #2c3e50; 
+}
+
+
+.Armenian {
+    list-style-type: armenian;
+    color: #e67e22; 
+}
+
+
+.custom {
+    color: #27ae60;
+    font-weight: bold;
+}
