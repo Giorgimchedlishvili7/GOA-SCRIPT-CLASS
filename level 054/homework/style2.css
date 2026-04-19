@@ -1,3 +1,3 @@
 ul {
-    list-style: image url(steering-wheel.png);
+    list-style-image: url(steering-wheel.png);
 }
