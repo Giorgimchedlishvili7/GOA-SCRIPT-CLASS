@@ -1,0 +1,13 @@
+
+.row {
+   width: 100px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+table{
+    border-radius: 20 20 20 20;
+}
