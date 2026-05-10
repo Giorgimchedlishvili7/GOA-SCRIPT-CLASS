@@ -4,19 +4,18 @@ input {
     height: 60px;
     border-radius: 15px;
 }
-
-#name {
+.name {
     background-color: #00d4ff; 
     border: 3px solid #0000ff; 
 }
 
-#email {
+.email {
     background-color: #ff0000; 
     border: 3px dotted #000000; 
 }
 
 
-#password {
+.password {
     background-color: #ffff00; 
     border: 3px dashed #008000; 
 }

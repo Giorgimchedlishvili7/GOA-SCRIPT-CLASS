@@ -1,0 +1,7 @@
+.o1{
+    list-style-type: upper-roman;
+}
+
+.o2{
+    list-style-type: decimal-leading-zero;
+}

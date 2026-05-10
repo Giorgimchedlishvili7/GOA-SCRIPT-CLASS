@@ -1,0 +1,14 @@
+.list{
+    text-align: center;
+}
+.georgian-list {
+  list-style-type: georgian;
+  background-color: #e3f2fd;
+  text-align: center;
+}
+
+.emoji {
+  list-style-type: none;
+  background-color: #fff3e0;
+  text-align: center;
+}
