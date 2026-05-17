@@ -1,0 +1,7 @@
+.image{
+    flex-direction: column;
+}
+
+.text{
+    flex-direction: row;
+}
