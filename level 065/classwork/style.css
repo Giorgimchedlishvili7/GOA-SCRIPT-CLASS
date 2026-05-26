@@ -1,0 +1,46 @@
+.tonsofdiv{
+    display: flex;
+    width: 400px;
+    height: 500px;
+    flex-wrap: wrap;
+    border: solid black;
+}
+
+.div1{
+    background-color: darkgreen;
+    color: white;
+    margin: 40px;
+    width: 50px;
+    height: 50px
+}
+
+.div2{
+    background-color: darkgreen;
+    color: white;
+     margin: 40px;
+     width: 50px;
+    height: 50px
+}
+
+.div3{
+    background-color: darkgreen;
+    color: white;
+     margin: 40px;
+     width: 50px;
+    height: 50px
+}
+.div4{
+    background-color: darkgreen;
+    color: white;
+     margin: 40px;
+     width: 50px;
+    height: 50px
+}
+
+.div5{
+    background-color: darkgreen;
+    color: white;
+     margin: 40px;
+     width: 50px;
+    height: 50px
+}
