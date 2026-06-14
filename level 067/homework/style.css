@@ -1,0 +1,21 @@
+  .container {
+            border: 2px solid black;
+            width: 400px;
+            height: 400px;
+        }
+
+        .blue-box {
+            background-color: blue;
+            width: 100px;
+            height: 100px;
+        
+        }
+
+        .red-box {
+            background-color: red;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
