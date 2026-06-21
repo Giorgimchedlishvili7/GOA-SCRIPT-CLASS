@@ -2,9 +2,7 @@
 
 tuple = (12, 45, 30, 85)
 
-first = tuple[0]
-last = tuple[3]
+start, *middle, end = tuple
 
-middle_sum = tuple[1] + tuple[2]
+print(sum(middle))
 
-print("the two middle nums are", middle_sum)
