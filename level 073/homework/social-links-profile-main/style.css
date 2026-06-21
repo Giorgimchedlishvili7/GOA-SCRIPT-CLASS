@@ -1,8 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Figtree;
+    font-family: inter;
 }
 
 body{
@@ -13,12 +17,35 @@ body{
     height: 100vh;
 }
 
-#div2{
-    background-color: hsl(0, 0%, 20%);
+#div1{
+    background-color: hsl(0, 0%, 12%);
     width: 300px;
     height: 420px;
     border-radius: 15px;
-    box-shadow: black 6px  6px 6px;
     align-items: center;
     flex-direction: column;
+}
+
+img{
+    border-radius: 60px;
+    margin-left: 110px;
+    margin-top: 20px;
+    width: 80px;
+}
+
+h4{
+    color: white;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+p{
+    color: hsl(75, 94%, 57%);
+    margin-left: 70px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.p1{
+    color: gray;
 }
